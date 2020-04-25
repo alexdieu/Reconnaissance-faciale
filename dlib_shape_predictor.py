@@ -3,7 +3,7 @@ import dlib
 import cv2
 from imutils import face_utils
 
-image = cv2.imread("images/VOTREPORTRAIT.jpg")
+image = cv2.imread("images/VOTREPHOTO.jpg")
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 detector = dlib.get_frontal_face_detector()
