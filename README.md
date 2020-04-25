@@ -7,7 +7,7 @@ Modules nécessaires :
 pip install opencv-python
 ## dlib
 pip install dlib
-Module requis pour Dlib :
+## Module requis pour Dlib :
 pip install CMake
 ## DLIB WINDOWS
 POUR INSTALLER DLIB SUR WINDOWS(en anglais) :
