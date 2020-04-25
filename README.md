@@ -12,3 +12,7 @@ pip install CMake
 ## DLIB WINDOWS
 POUR INSTALLER DLIB SUR WINDOWS(en anglais) :
 https://pysource.com/2019/03/20/how-to-install-dlib-for-python-3-on-windows/
+
+SI VOUS AVEZ DES PB D'INSTALLATION DE DLIB INSTALLEZ BOOST :
+
+https://www.boost.org
