@@ -6,4 +6,6 @@ Modules nécessaires :
 ## opencv
 pip install opencv-python
 ## dlib
-pip install dlib 
+pip install dlib
+TO INSTALL DLIB ON WINDOWS :
+https://pysource.com/2019/03/20/how-to-install-dlib-for-python-3-on-windows/
